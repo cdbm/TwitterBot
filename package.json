@@ -1,0 +1,20 @@
+{
+  "name": "twitterbot",
+  "version": "1.0.0",
+  "description": "Um bot simples pro Twitter",
+  "main": "index.js",
+  "scripts": {
+    "start": "node bot.js",
+    "test": "test"
+  },
+  "author": "Christian Davi",
+  "license": "ISC",
+  "dependencies": {
+    "node-accuweather": "^1.7.0",
+    "request-promise": "^4.2.4",
+    "twit": "^2.2.11",
+    "weather-js": "^2.0.0",
+    "yahoo-weather": "^2.2.2",
+    "yr.no-forecast": "^2.1.0"
+  }
+}
