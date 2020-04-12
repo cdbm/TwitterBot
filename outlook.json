@@ -1,0 +1,35 @@
+{
+    "Partly Sunny" : {
+        "translate" : "Parcialmente ensolarado",
+        "emoji" : "⛅"
+    },
+    "Mostly Sunny" : {
+        "translate" : "Ensolarado",
+        "emoji" : "🌤️"
+    },
+    "Light Rain" : {
+        "translate" : "Chuva leve",
+        "emoji" : "🌦️"
+    },
+    "Mostly Clear" : {
+        "translate" : "Muito Claro",
+        "emoji" : "☀️"
+    },
+    "Partly Cloudy" : {
+        "translate" : "Parcialmente nublado",
+        "emoji" : "🌥️"
+    },
+    "Rain Showers" : {
+        "translate" : "Pancadas de chuva",
+        "emoji" : "⛈️"
+    },
+    "Rain" : {
+        "translate" : "Chuva",
+        "emoji" : "🌧️"
+    },
+    "Sunny" : {
+        "translate" : "Ensolarado",
+        "emoji" : "🌤️"
+    }
+}
+
